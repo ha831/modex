@@ -1,1 +1,2 @@
 Modex is a Clojure MCP Library to augment your AI models with Tools, Resources &
+# guard against empty input
