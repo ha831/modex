@@ -10,3 +10,4 @@ Notes and usage details for modex.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
