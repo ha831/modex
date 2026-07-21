@@ -46,3 +46,4 @@ Notes and usage details for modex.
 - fix a small wording issue
 - fix a small wording issue
 - link the usage section
+- clarify the setup steps
