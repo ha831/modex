@@ -51,3 +51,4 @@ Modex is a Clojure MCP Library to augment your AI models with Tools, Resources &
 # keep defaults in sync with the manifest
 # drop an unused branch
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
